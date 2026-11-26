@@ -1,11 +1,12 @@
-<h1>
-  <img src="ui/icon.png" alt="GreenPrism" width="38" align="absmiddle" />
-  &nbsp;GreenPrism Launcher
-</h1>
+<p align="center">
+  <img src="ui/banner.png" alt="GreenPrism Launcher" width="100%" />
+</p>
 
-![Platform](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-1bd96a)
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows&logoColor=white" alt="Windows 10/11" />
+  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white" alt="Python 3.10+" />
+  <img src="https://img.shields.io/badge/License-MIT-1bd96a" alt="MIT License" />
+</p>
 
 Лёгкий кастомный лаунчер Minecraft для Windows на Python (`pywebview` + `minecraft-launcher-lib`) с современным интерфейсом, поддержкой всех популярных загрузчиков, каталогами **Modrinth** и **CurseForge**, авторизацией **Ely.by** и встроенным анализатором крашей **GreenPrism Rescue**.
 
