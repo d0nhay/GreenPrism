@@ -1,0 +1,4 @@
+pywebview
+minecraft-launcher-lib
+requests
+pypresence
